@@ -1,0 +1,19 @@
+{
+  "name": "repo_april_15_21",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirikv/repo_april_15_21.git"
+  },
+  "author": "siri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirikv/repo_april_15_21/issues"
+  },
+  "homepage": "https://github.com/sirikv/repo_april_15_21#readme"
+}
